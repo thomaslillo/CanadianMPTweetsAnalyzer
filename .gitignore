@@ -4,7 +4,6 @@
 
 # files with sensitive info
 config.py
-twitter api tests.ipynb
 
 # IPython
 profile_default/
