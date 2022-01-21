@@ -8,6 +8,10 @@ This project will collect the tweets of Canadian MPs and aggregate them into a u
 
 ![](Media\Overview.png)
 
+### Next Steps
+
+1. 
+
 ### References
 
 The list of Canadian MP Twitter accounts - created by the House of Commons:
