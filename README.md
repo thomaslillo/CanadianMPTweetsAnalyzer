@@ -6,7 +6,7 @@ This project will collect the tweets of Canadian MPs and aggregate them into a u
 
 ### Architecture Diagram
 
-![](Media\Overview.png)
+![ConnectingFiles](Media/Overview.png)
 
 ### Next Steps
 
