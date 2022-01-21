@@ -3,8 +3,6 @@ import os
 import json
 import pandas as pd
 
-# === user list request
-
 def bearer_oauth(r):
     """
     Method required by bearer token authentication.
