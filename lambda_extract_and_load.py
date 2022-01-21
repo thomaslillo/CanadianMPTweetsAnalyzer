@@ -1,7 +1,7 @@
 import boto3
 
 def lambda_handler(event, context):
-    client = boto3.resources('dynamodb')
+    client = boto3.resources('s3')
     table = client.Table('')
     
     # where the dict of data to put into the database goes

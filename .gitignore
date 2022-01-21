@@ -2,6 +2,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# all the testing files
+sandbox/
+
 # files with sensitive info
 config.py
 
