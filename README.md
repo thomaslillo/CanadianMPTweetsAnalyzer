@@ -8,9 +8,11 @@ This project will collect the tweets of Canadian MPs and aggregate them into a u
 
 ![ConnectingFiles](Media/Overview.png)
 
-### Next Steps
+### Next Steps + Enhancements
 
-1. 
+1. Scheduling with Airflow to make backfilling easier.
+2. Chuck each pull into seperate parts to enable concurrency.
+3. Create a AWS infrastructure teardown script.
 
 ### References
 
